@@ -46,4 +46,6 @@ func main() {
 	fmt.Println(dog)
 
 	dog.EmitirSom()
+
+	fazerbarulho(dog)
 }
